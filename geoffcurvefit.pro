@@ -1,4 +1,4 @@
-; $Id: //depot/idl/IDL_63_RELEASE/idldir/lib/curvefit.pro#1 $
+; $Id$
 ;
 ; Copyright (c) 1982-2006, Research Systems, Inc.  All rights reserved.
 ;   Unauthorized reproduction prohibited.

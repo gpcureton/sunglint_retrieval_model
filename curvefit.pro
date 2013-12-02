@@ -1,4 +1,4 @@
-; $Id: curvefit.pro,v 1.34 2005/02/01 20:24:16 scottm Exp $
+; $Id$
 ;
 ; Copyright (c) 1982-2005, Research Systems, Inc.  All rights reserved.
 ;   Unauthorized reproduction prohibited.
